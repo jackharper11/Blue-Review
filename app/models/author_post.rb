@@ -1,0 +1,2 @@
+class AuthorPost < ApplicationRecord
+end
